@@ -1,0 +1,35 @@
+.formdiv {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+.formdiv1 {
+  border-radius: 5px;
+  background-color: aliceblue;
+}
+#person {
+  height: 8vh;
+  width: 8vw;
+  margin-top: -20px;
+  margin-left: 150px;
+}
+.date {
+  margin-left: 10px;
+}
+.error {
+  color: darkred;
+  display: flex;
+  margin-left: 40%;
+}
+.name {
+  margin-left: 5px;
+}
+.email {
+  margin-left: 2px;
+}
+.pass {
+  margin-left: 5px;
+}
+.display{
+    margin-left: 10%;
+}

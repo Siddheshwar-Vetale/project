@@ -1,0 +1,21 @@
+.formdiv {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+}
+.btn-outline-primary {
+  margin-left: 140px !important;
+}
+.formdiv1 {
+  margin: 10px;
+  position: relative;
+  z-index: 1;
+  border-radius: 5px;
+}
+#person1{
+    height: 8vh;
+    width:8vw;
+}
+.error1{
+  color: darkred;
+}

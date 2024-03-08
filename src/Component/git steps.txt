@@ -1,0 +1,12 @@
+
+
+	git init 
+	git status
+	git add .
+	git status
+	git commit -m ""
+	git push
+	git remote add nav url
+	git push nav
+	
+	
